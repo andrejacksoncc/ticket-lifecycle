@@ -221,7 +221,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="80%" height="80%" alt="30" src="https://github.com/user-attachments/assets/06462fd0-4de0-4c55-9949-69c44423a760" />
 
-- Type out your analysis of the situation and any troubleshooting you plan on doing.
+- Once you have a solution, type it out and post it in the thread.
 </p>
 <br />
 
